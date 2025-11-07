@@ -1,0 +1,2 @@
+This is a dummy student certificate file.
+Used for blockchain testing.
